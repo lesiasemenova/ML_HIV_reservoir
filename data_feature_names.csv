@@ -1,0 +1,156 @@
+Code name,Actual name
+4_freq,%CD4 T
+4_27p_freq,%CD27+ CD4 T
+4_38p_freq,%CD38+ CD4 T
+4_107p_freq,%CD107+ CD4 T
+4_127p_freq,%CD127+ CD4 T
+4_DRp_freq,%HLA-DR+ CD4 T
+4_IFNp_freq,%IFNg+ CD4 T
+4_IL2p_freq,%IL-2+ CD4 T
+4_G1p_freq,%KLRG1+ CD4 T
+4_G2Ap_freq,%NKG2A+ CD4 T
+4_PD1p_freq,%PD-1+ CD4 T
+4_CM_freq,%Tcm CD4 T
+4_N_freq,%Tn CD4 T
+4_E_freq,%Teff CD4 T
+4_EM_freq,%Tem CD4 T
+4_IFNn_TNFp_freq,%IFNg-/TNFa+ CD4 T
+4_IFNp_TNFp_freq,%IFNg+/TNFa+ CD4 T
+4_polyfxn_freq,Polyfunctional CD4 T
+4_IFNp_TNFn_freq,%IFNg+/TNFa- CD4 T
+4_38n_DRp_freq,%CD38-/HLA-DR+ CD4 T
+4_38p_DRp_freq,%CD38+/HLA-DR+ CD4 T
+4_38p_DRn_freq,%CD38+/HLA-DR- CD4 T
+4_G1n_27p_freq,%KLRG1-/CD27+ CD4 T
+4_G1p_27p_freq,%KLRG1+/CD27+ CD4 T
+4_G1p_27n_freq,%KLRG1+/CD27- CD4 T
+4_G1n_27n_freq,%KLRG1-/CD27- CD4 T
+4_G1n_PD1p_freq,%KLRG1-/PD-1+ CD4 T
+4_G1p_PD1p_freq,%KLRG1+/PD-1+ CD4 T
+4_G1p_PD1n_freq,%KLRG1+/PD-1- CD4 T
+4_G1n_PD1n_freq,%KLRG1-/PD-1- CD4 T
+4_PD1n_R7p_freq,%PD-1-/CCR7+ CD4 T
+4_PD1p_R7p_freq,%PD-1+/CCR7+ CD4 T
+4_PD1p_R7n_freq,%PD-1+/CCR7- CD4 T
+4_PD1n_R7n_freq,%PD-1-/CCR7- CD4 T
+4_TNFp_freq,%TNFa+ CD4 T
+8_freq,%CD8 T
+8_27p_freq,%CD27+ CD8 T
+8_38p_freq,%CD38+ CD8 T
+8_107p_freq,%CD107+ CD8 T
+8_127p_freq,%CD127+ CD8 T
+8_DRp_freq,%HLA-DR+ CD8 T
+8_IFNp_freq,%IFNg+ CD8 T
+8_IL2p_freq,%IL-2+ CD8 T
+8_G1p_freq,%KLRG1+ CD8 T
+8_PD1p_freq,%PD-1+ CD8 T
+8_N_freq,%Tn CD8 T
+8_E_freq,%Teff CD8 T
+8_EM_freq,%Tem CD8 T
+8_IFNn_TNFp_freq,%IFNg-/TNFa+ CD8 T
+8_IFNp_TNFp_freq,%IFNg+/TNFa+ CD8 T
+8_polyfxn_freq,Polyfunctional CD8 T
+8_IFNp_TNFn_freq,%IFNg+/TNFa- CD8 T
+8_38n_DRp_freq,%CD38-/HLA-DR+ CD8 T
+8_38p_DRp_freq,%CD38+/HLA-DR+ CD8 T
+8_38p_DRn_freq,%CD38+/HLA-DR- CD8 T
+8_G1n_27p_freq,%KLRG1-/CD27+ CD8 T
+8_G1p_27p_freq,%KLRG1+/CD27+ CD8 T
+8_G1p_27n_freq,%KLRG1+/CD27- CD8 T
+8_G1n_27n_freq,%KLRG1-/CD27- CD8 T
+8_G1n_PD1p_freq,%KLRG1-/PD-1+ CD8 T
+8_G1p_PD1p_freq,%KLRG1+/PD-1+ CD8 T
+8_G1p_PD1n_freq,%KLRG1+/PD-1- CD8 T
+8_CM_freq,%Tcm CD8 T
+8_G1n_PD1n_freq,%KLRG1-/PD-1- CD8 T
+8_PD1n_R7_freq,%PD-1-/CCR7+ CD8 T
+8_PD1p_R7p_freq,%PD-1+/CCR7+ CD8 T
+8_PD1p_R7n_freq,%PD-1+/CCR7- CD8 T
+8_PD1n_R7n_freq,%PD-1-/CCR7- CD8 T
+8_TNFp_freq,%TNFa+ CD8 T
+NK_freq,% NK
+NK_G2Ap_freq,%NKG2A+ NK
+NK_G2An_16p_freq,%NKG2A-/CD16+ NK
+NK_G2Ap_16p_freq,%NKG2A+/CD16+ NK
+NK_G2Ap_16n_freq,%NKG2A+/CD16- NK
+NK_G2An_16n_freq,%NKG2A-/CD16- NK
+NKT_freq,% NKT
+NKT_2GAp_freq,%NKG2A+ NKT
+NKT_2GAn_16p_freq,%NKG2A-/CD16+ NKT
+NKT_2GAp_16p_freq,%NKG2A+/CD16+ NKT
+NKT_2GAp_16n_freq,%NKG2A+/CD16- NKT
+NKT_2GAn_16n_freq,%NKG2A-/CD16- NKT
+4_CM_38n_DRp_freq,%CD38-/HLA-DR+ Tcm CD4 T
+4_CM_38p_DRp_freq,%CD38+/HLA-DR+ Tcm CD4 T
+4_CM_38p_DRn_freq,%CD38+/HLA-DR- Tcm CD4 T
+4_CM_38n_DRn_freq,%CD38-/HLA-DR- Tcm CD4 T
+4_CM_PD1p_freq,%PD-1+ Tcm CD4 T
+4_N_38n_DRp_freq,%CD38-/HLA-DR+ Tn CD4 T
+4_N_38p_DRp_freq,%CD38+/HLA-DR+ Tn CD4 T
+4_N_38p_DRn_freq,%CD38+/HLA-DR- Tn CD4 T
+4_N_38n_DRn_freq,%CD38-/HLA-DR- Tn CD4 T
+4_N_PD1p_freq,%PD-1+ Tn CD4 T
+4_E_38n_DRp_freq,%CD38-/HLA-DR+ Teff CD4 T
+4_E_38p_DRp_freq,%CD38+/HLA-DR+ Teff CD4 T
+4_E_38p_DRn_freq,%CD38+/HLA-DR- Teff CD4 T
+4_E_38n_DRn_freq,%CD38-/HLA-DR- Teff CD4 T
+4_E_PD1p_freq,%PD-1+ Teff CD4 T
+4_EM_38n_DRp_freq,%CD38-/HLA-DR+ Tem CD4 T
+4_EM_38p_DRp_freq,%CD38+/HLA-DR+ Tem CD4 T
+4_EM_38p_DRn_freq,%CD38+/HLA-DR- Tem CD4 T
+4_EM_38n_DRn_freq,%CD38-/HLA-DR- Tem CD4 T
+4_EM_PD1p_freq,%PD-1+ Tem CD4 T
+8_CM_38n_DRp_freq,%CD38-/HLA-DR+ Tcm CD8 T
+8_CM_38p_DRp_freq,%CD38+/HLA-DR+ Tcm CD8 T
+8_CM_38p_DRn_freq,%CD38+/HLA-DR- Tcm CD8 T
+8_CM_38n_DRn_freq,%CD38-/HLA-DR- Tcm CD8 T
+8_CM_PD1p_freq,%PD-1+ Tcm CD8 T
+8_N_38n_DRp_freq,%CD38-/HLA-DR+ Tn CD8 T
+8_N_38p_DRp_freq,%CD38+/HLA-DR+ Tn CD8 T
+8_N_38p_DRn_freq,%CD38+/HLA-DR- Tn CD8 T
+8_N_38n_DRn_freq,%CD38-/HLA-DR- Tn CD8 T
+8_N_PD1p_freq,%PD-1+ Tn CD8 T
+8_E_38n_DRp_freq,%CD38-/HLA-DR+ Teff CD8 T
+8_E_38p_DRp_freq,%CD38+/HLA-DR+ Teff CD8 T
+8_E_38p_DRn_freq,%CD38+/HLA-DR- Teff CD8 T
+8_E_38n_DRn_freq,%CD38-/HLA-DR- Teff CD8 T
+8_E_PD1p_freq,%PD-1+ Teff CD8 T
+8_EM_38n_DRp_freq,%CD38-/HLA-DR+ Tem CD8 T
+8_EM_38p_DRp_freq,%CD38+/HLA-DR+ Tem CD8 T
+8_EM_38p_DRn_freq,%CD38+/HLA-DR- Tem CD8 T
+8_EM_38n_DRn_freq,%CD38-/HLA-DR- Tem CD8 T
+8_EM_PD1p_freq,%PD-1+ Tem CD8 T
+agey_np,Age
+Years.HIV,Years of HIV
+GenderMale,Gender
+Years.Treat,Years of ART
+cd4_nadirvalue,CD4 Nadir
+cd4_recentvalue,Recent CD4 count
+African American,African American
+Caucasian,Caucasian
+Other,Race: Other
+Years.Before.Treat=NA,Years before ART = NA
+Years.Before.Treat<1,Years before ART < 1
+Years.Before.Treat>=1,Years before ART >= 1
+4_127n_freq,%CD127- CD4 T
+8_127n_freq,%CD127- CD8 T
+4_bool_7+g+2-a-_freq,%CD107+IFNg+IL-2-TNFa- CD4 T
+4_bool_7+g-2+a-_freq,%CD107+IFNg-IL-2+TNF- CD4 T
+4_bool_7+g-2-a+_freq,%CD107+IFNg-IL-2-TNFa+ CD4 T
+4_bool_7+g-2-a-_freq,%CD107+IFNg-IL-2-TNFa- CD4 T
+4_bool_7-g+2+a-_freq,%CD107-IFNg+IL-2+TNFa- CD4 T
+4_bool_7-g+2-a+_freq,%CD107-IFNg+IL-2-TNFa+ CD4 T
+4_bool_7-g+2-a-_freq,%CD107-IFNg+IL-2-TNFa- CD4 T
+4_bool_7-g-2+a+_freq,%CD107-IFNg-IL-2+TNFa+ CD4 T
+4_bool_7-g-2+a-_freq,%CD107-IFNg-IL-2+TNFa- CD4 T
+4_bool_7-g-2-a+_freq,%CD107-IFNg-IL-2-TNFa+ CD4 T
+8_bool_7+g+2-a-_freq,%CD107+IFNg+IL-2-TNFa- CD8T
+8_bool_7+g-2+a-_freq,%CD107+IFNg-IL-2+TNF- CD8 T
+8_bool_7+g-2-a+_freq,%CD107+IFNg-IL-2-TNFa+ CD8 T
+8_bool_7+g-2-a-_freq,%CD107+IFNg-IL-2-TNFa- CD8 T
+8_bool_7-g+2+a-_freq,%CD107-IFNg+IL-2+TNFa- CD8 T
+8_bool_7-g+2-a+_freq,%CD107-IFNg+IL-2-TNFa+ CD8 T
+8_bool_7-g+2-a-_freq,%CD107-IFNg+IL-2-TNFa- CD8 T
+8_bool_7-g-2+a+_freq,%CD107-IFNg-IL-2+TNFa+ CD8 T
+8_bool_7-g-2+a-_freq,%CD107-IFNg-IL-2+TNFa- CD8 T
+8_bool_7-g-2-a+_freq,%CD107-IFNg-IL-2-TNFa+ CD8 T
